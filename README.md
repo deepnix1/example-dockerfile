@@ -139,5 +139,5 @@ pipeline {
 
 ## Contact
 
-For further information or questions, feel free to reach out via [LinkedIn] (https://www.linkedin.com/in/mustafa-dall/).
+For further information or questions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mustafa-dall/).
 
