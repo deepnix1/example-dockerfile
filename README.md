@@ -33,7 +33,7 @@ pipeline {
     environment {
         SCANNER_HOME = tool 'sonar-scanner'
         SONAR_AUTH_TOKEN = credentials('sonarqube-token')
-        SONAR_URL = 'http://172.27.80.1:9000'
+        SONAR_URL = '<IP_ADRESS:9000>'
     }
 
     stages {
