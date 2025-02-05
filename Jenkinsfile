@@ -8,7 +8,7 @@ pipeline {
     
     environment {
         SCANNER_HOME = tool 'sonar-scanner'
-        SONAR_AUTH_TOKEN = 'squ_6de207690725b7961e5f226fc8b85c3fea39d0b0'
+        SONAR_AUTH_TOKEN = credentials(123-sonarqube)
         SONAR_URL = 'http://172.27.80.1:9000'
     }
 
