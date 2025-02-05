@@ -137,4 +137,7 @@ pipeline {
 
 ## Contact
 
-For any questions or further information, please contact [Your Name] at [your-email@example.com].
+## Contact
+
+For further information or questions, feel free to reach out via [LinkedIn] (https://www.linkedin.com/in/mustafa-dall/).
+
