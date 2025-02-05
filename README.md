@@ -24,7 +24,7 @@ The Jenkins pipeline performs the following stages:
 
 Below is a visual representation of the CI/CD pipeline:
 
-![Pipeline Diagram](project_look.png)
+![Pipeline Diagram](images/project_look.png)
 
 ## Jenkinsfile
 
